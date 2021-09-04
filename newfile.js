@@ -1,4 +1,6 @@
 console.log("Hello!")
 hello from Garad
 hello from Garad2
-hiiii
+hii
+
+alert("Hola soy Andre")
