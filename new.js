@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /******************************************************************
  ******************Coding Challenge 1******************************
  *********************BMI Calculator********************************/
@@ -18,13 +17,3 @@
  //Checking thier BMI
  var isGreater = BMIofJohn > BMIofMark;
  console.log("Is John's BMI higher than Mark's? " + isGreater);
-=======
-alert("Hi there!");
-var Name= "My name";
-var is= "is";
-var firstName="tarik";
-
-// String concatenation example
-
-console.log(Name + is + firstName);
->>>>>>> 7e673dbec5d571b7dfa41525a6d0697e5f1cfcea
